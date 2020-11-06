@@ -1,0 +1,36 @@
+.img1{
+width: 300px; height: 300px;
+}
+main{
+    background-image: url(images/fondo.gif);
+    background-size: 1350px;
+}
+.footer{
+    background-color: darkgrey;
+}
+.font1{
+    color: indianred;
+    font-family: 'Times New Roman', Times, serif;
+}
+.font2{
+    color: indianred;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+}
+.img2{
+    width: 150px; height: 150px;
+}
+.img3{
+    width: 400px; height: 400px;
+}
+.img4{
+    width: 400px;
+}
+.img5{
+    width: 700px; height: 300px;
+}
+.font3{
+    color: indianred;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: xx-large;
+}
